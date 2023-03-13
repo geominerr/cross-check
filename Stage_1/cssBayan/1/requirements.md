@@ -1,10 +1,10 @@
-## Student Discord: @nikolairoshchin#3985
+Student Discord: @nikolairoshchin#3985
 
-### Ваша оценка - 80 баллов
+## Ваша оценка - 80 баллов
 
-#### Отзыв по пунктам ТЗ:
+### Отзыв по пунктам ТЗ:
 
-##### Не выполненные/не засчитанные пункты:
+#### Не выполненные/не засчитанные пункты:
 
 1. The "cssBayan" folder has been created in the gh-pages branch. Deploy is available via link, link example: https://${YOUR_GITHUB_NAME}.github.io/cssBayan/cssBayan/index.html
 
@@ -16,30 +16,30 @@
 
 3. Cursor over the memes (hover) effect only exists for devices that can support hover. This means that the touch device (phone, tablet) doesn't have hover effects, and desktop does have hover effects
 
-> Отзыв: Необходимо было сделать медиа запрос, который определяет поддреживает ли данное устройство :hover и уже в нем указывать стили для элементов при наведении.
+> Отзыв: Необходимо было сделать медиа запрос, который определяет поддеhживает ли данное устройство :hover и уже в нем указывать стили для элементов при наведении.
 
-    ```css
-    @media (hover: hover) {
-    .container:hover {
-        /* you styles */
-    }
-    }
-    ```
+```css
+@media (hover: hover) {
+  .container:hover {
+    /* you styles */
+  }
+}
+```
 
 4. Only flexible dimensions are used (rem, em, %, vh, vw, fr and etc.). The accordion is responsive
 
-   > ![Screenshot]()
-   > Отзыв: Используются все размеры... :-).
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/1/Screenshot_sizes_px.png)
+   > Отзыв: Используются все размеры...
 
 5. All blocks/parts of the accordion are in base flow of the dom elements. All elements are not positioned with top, left, right, bottom. float is not used. The value of position is only static. Note: usage of display: none is ALLOWED
 
-   > ![Screenshot]()
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/1/Screenshot_position.png)
    > Отзыв: Используется абсолютное позиционирование.
    > Используется z-index
 
 ---
 
-##### Частично выполненные пункты:
+#### Частично выполненные пункты:
 
 1. The commits are called accordingly to the guideline (https://docs.rs.school/#/git-convention), each commit contains a time-stamp. Time-stamp can be at any language. Accordingly to your time-stamp should be clear, when this commit was done: day of the week, month, day, year, time with seconds (the order can vary) e.g. Commit message example: feat: add basic page layout (Mon, Sep 13, 2021 10:25:24 PM)
 
@@ -47,13 +47,13 @@
 
 2. Smooth change (transition) of the meme images and icons is done
 
-   > ![Screenshot]()
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/1/Screenshot_smooth_change.png)
    > Отзыв: Плавное изменение только мемов, иконки без transitions
 
 3. Responsive design with three breakpoints for mobile, tablet, and desktop exist. Accordion is displayed correctly at mobile 320x568, tablet 820x1180, desktop 1920x1080. (Note: breakpoints don't have to be 320x568, 820x1180, 1920x1080)
 
-   > ![Screenshot]()
-   > Отзыв: На мобильной версии присутсвует горизонтальный скролл при открытом втором меме.
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/1/Screenshot_horizontal_scroll.png)
+   > Отзыв: На мобильной версии присутствует горизонтальный скролл при открытом втором меме.
 
 4. All visual effects when the cursor is hovering over the memes, when the mouse is down on a meme, and when a meme is selected are implemented|
 
@@ -65,7 +65,7 @@
 
 ---
 
-##### Выполненные пункты:
+#### Выполненные пункты:
 
 1. Public repository with name "cssBayan" created
 
@@ -87,4 +87,4 @@
 
 10. Font size is changed at each device (mobile, tablet, desktop)
 
-#### Если есть вопросы или не согласны с моей оценкой пишите здесь или в discord. Хорошего дня!
+### Если есть вопросы или не согласны с моей оценкой пишите здесь или в discord. Хорошего дня!
