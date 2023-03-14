@@ -6,7 +6,8 @@
 
 1. All visual effects when the cursor is hovering over the memes, when the mouse is down on a meme, and when a meme is selected are implemented
 
-   > ![Screeenshot]()
+   > ![Screeenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/2/Screenshot_visual_effects.png)
+
    > Отзыв: When the mouse is down on a meme not are implemented visual effects. Screenshot
 
 #### Выполненные пункты:
@@ -21,9 +22,12 @@
 
 5. The commits are called accordingly to the guideline (https://docs.rs.school/#/git-convention), each commit contains a time-stamp. Time-stamp can be at any language. Accordingly to your time-stamp should be clear, when this commit was done: day of the week, month, day, year, time with seconds (the order can vary) e.g. Commit message example: feat: add basic page layout (Mon, Sep 13, 2021 10:25:24 PM)
 
+   > Отзыв: есть пару коммитов...  
+   > Должен использоваться present tense ("add feature" not "added feature" ,"change" not "changed", "replace" not "replaced")
+
 6. Pull Request from gh-pages branch to main branch is open. Pull Request name is equal to the task name. Description of the Pull Request was done accordingly to the guideline (https://docs.rs.school/#/pull-request-review-process?id=%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-pull-request-pr). The link to this Pull Request was submitted to the cross check form. This Pull Request was NOT merged
 
-   > Отзыв: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+   > Отзыв: Отсутствует <Task:> в первой строке описания PR
 
 7. The accordion component is centered on the screen, with equal indents on the left and right
 
@@ -39,7 +43,8 @@
 
 13. Cursor over the memes (hover) effect only exists for devices that can support hover. This means that the touch device (phone, tablet) doesn't have hover effects, and desktop does have hover effects
 
-    > Отзыв: визуально работает все правильно но технически решение не верно
+    > Отзыв: визуально работает все правильно но технически решение не верно, у вас :hover на всех устройствах висит, а брекпоинтами вы изменяете opacity и pointer. Если бы в задании не было бы указано размеров устройств, то как определить какое устройство без touch, а какое desktop. 12-16" вполне может быть touch-device
+
     > Необходимо было сделать медиа запрос, который определяет поддерживает ли данное устройство :hover и уже в нем указывать стили для элементов при наведении.
 
     ```CSS
@@ -56,8 +61,9 @@
 
 15. Only flexible dimensions are used (rem, em, %, vh, vw, fr and etc.). The accordion is responsive
 
-> ![Screenshot]()
-> Мелочь, но лучше исправить.
+    > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/2/Screenshot_sizes_px.png)
+
+    > Мелочь, но лучше исправить.
 
 16. All blocks/parts of the accordion are in base flow of the dom elements. All elements are not positioned with top, left, right, bottom. float is not used. The value of position is only static. Note: usage of display: none is ALLOWED
 

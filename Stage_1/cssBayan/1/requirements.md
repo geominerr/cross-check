@@ -1,6 +1,4 @@
-Student Discord: @nikolairoshchin#3985
-
-## Ваша оценка - 80 баллов
+#### Если есть вопросы или не согласны с моей оценкой пишите здесь или в discord. Хорошего дня!
 
 ### Отзыв по пунктам ТЗ:
 
@@ -86,5 +84,3 @@ Student Discord: @nikolairoshchin#3985
 9. Initially, the first meme should be expanded
 
 10. Font size is changed at each device (mobile, tablet, desktop)
-
-### Если есть вопросы или не согласны с моей оценкой пишите здесь или в discord. Хорошего дня!
