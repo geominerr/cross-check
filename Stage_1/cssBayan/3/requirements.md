@@ -25,8 +25,8 @@
 5. Initially, the first meme should be expanded
 
    > Отзыв: при размере 1920px не открыт мем...
-   > ![Screenshot]()
-   > ![Screenshot]()
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/3/Screenshoot_not_checked.png)
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/cssBayan/3/Screenshoot_checked.png)
 
 ---
 
