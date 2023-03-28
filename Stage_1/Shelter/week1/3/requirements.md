@@ -1,6 +1,8 @@
-#### Anna Plis (@annaplis1.
+#### Anna Plis (@annaplis1)
 
-#### Добрый день! Если возникают вопросы по моей проверки или не согласны с оценкой, стучите в discord maksym_voloshyn#2691. Хорошего дня!
+#### Добрый день! Если возникают вопросы по моей проверки или не согласны с оценкой, стучите в discord maksym_voloshyn#2691.
+
+#### P.s. хорошая работа, жалко было снимать балы. Если до дедлайна исправите, пишите, изменю оценку. Всего доброго!
 
 #### Ваша оценка - 95.5 баллов
 
@@ -12,7 +14,7 @@
 
    > Отзыв: Обязательно исправьте этот пункт, дальше при адаптиве опять будете мучаться ... :-)
 
-   > ![Screenshot](Screenshot_flexbox_help.png)
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/3/Screenshot_flexbox_help.png)
 
 #### Частично выполненные пункты:
 
@@ -20,7 +22,7 @@
 
    > Отзыв: Отклонение > 10px
 
-   > ![Screenshot](Screenshot_pp_help.png)
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/3/Screenshot_pp_help.png)
 
 #### Выполненные пункты:
 
@@ -42,7 +44,7 @@
 
    > Отзыв: На грани :-) Баллы НЕ снимал!
 
-   > ![Screenshot](Screenshot_pp_pets.png)
+   > ![Screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/3/Screenshot_pp_pets.png)
 
 9. блок 'In addition'
 
