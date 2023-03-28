@@ -1,6 +1,6 @@
 #### Marat Assimbayev (@maratreactjs)
 
-#### Добрый день! Если возникают вопросы по моей проверки или не согласны с оценкой, стучите в discord maksym_voloshyn#2691 или пишите здесь. Хорошего дня!
+#### Добрый день! Если возникают вопросы по моей проверки или не согласны с оценкой, стучите в discord maksym_voloshyn#2691. Хорошего дня!
 
 #### Ваша оценка - 50.5 баллов
 
@@ -10,7 +10,7 @@
 
 1. верстка страницы валидная: для проверки валидности вёрстки используйте сервис https://validator.w3.org/ Валидной вёрстке соответствует надпись 'Document checking completed. No errors or warnings to show.' В таком случае баллы за пункт требований выставляем полностью. Если есть предупреждения - warnings, но нет ошибок - errors, выставляем половину баллов за пункт требований
 
-   > ![screenshot](Screenshot_validation_error.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_validation_error.png)
 
 2. добавлен favicon
 
@@ -40,17 +40,17 @@
 #### Частично выполненные пункты:
 
 1. блок 'header'
-   > ![screenshot](Screenshot_pp_header.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_pp_header.png)
 2. блок 'About'
-   > ![screenshot](Screenshot_pp_about.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_pp_about.png)
 3. блок 'Our Friends'
-   > ![screenshot](Screenshot_pp_pets.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_pp_pets.png)
 4. блок 'Help'
-   > ![screenshot](Screenshot_pp_help.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_pp_help.png)
 5. блок 'In addition'
-   > ![screenshot](Screenshot_pp_donation.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_pp_donation.png)
 6. блок 'footer'
-   > ![screenshot](Screenshot_pp_footer.png)
+   > ![screenshot](https://raw.githubusercontent.com/geominerr/cross-check/main/Stage_1/Shelter/week1/2/Screenshot_pp_footer.png)
 7. элемент 'About the Shelter' в навигации подсвечен и неинтерактивен, остальные элементы навигации интерактивны
    > Отзыв: Эдемент подсвечен, НО интеркативен. Есть эффект при наведении.
 8. выполнена интерактивность ссылок и кнопок. Интерактивность заключается не только в изменении внешнего вида курсора, например, при помощи свойства 'cursor: pointer', но и в использовании и других визуальных эффектов, например, изменение цвета фона или цвета шрифта, согласно стайлгайду в макете. Если в макете стили не указаны, реализуете их по своему усмотрению, руководствуясь общим стилем макета
