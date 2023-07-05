@@ -35,7 +35,7 @@
 
 ### Class diagram
 
-![Diagram](assets/app-class-diagram.png)
+![Diagram](assets/App-class-diagram.png)
 
 Выше структура моего приложения, использовал паттерн MVC.
    - **Model**:
