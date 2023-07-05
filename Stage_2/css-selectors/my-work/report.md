@@ -5,37 +5,37 @@
 
 ---
 
-1. ##### Stack:
+1. #### Stack:
 
    - HTML
    - SASS/SCSS
    - TS
 
-2. ##### Linter:
+2. #### Linter:
 
    - ESLint [ airbnb-typescript/base, plugin:@typescript-eslint/recommended, plugin:prettier/recommended]
 
-3. ##### Formatter:
+3. #### Formatter:
 
    - Prettier
 
-4. ##### Build:
+4. #### Build:
 
    - WebPack
 
-5. ##### Test:
+5. #### Test:
 
    - Jest
 
 ---
 
-##### Components
+### Components
 
 ![Screenshot](assets/screenshot-deploy.png)
 
-##### Class diagram
+### Class diagram
 
-![Diagram](assets/App-class-diagram.png)
+![Diagram](assets/app-class-diagram.png)
 
 1. Выше структура моего приложения, использовал паттерн MVC.
    - **Model**:
@@ -60,7 +60,7 @@
 
 ---
 
-1. #### HTML/СSS
+1. ### HTML/СSS
 
 - При верстки на flex :
   -- wrapper {flex-grow: 1}
@@ -69,7 +69,7 @@
 
   - [x] Исправлял через position: fixed , насколько критично использовать fixed (поддержка всеми браузерами есть, только c firefox вроде немного потанцевать надо) ?
 
-2. #### CSS
+2. ### CSS
 
 - На одном из проектов использовал упрощеную архитектуру 7-1
 
@@ -80,7 +80,7 @@
   - [x] сss переменные просто прописывать в началае файла componentName.scss или создавать \_variables.scss и импортить их в componentName.scss (в таком случае и директория отдельная scss/ должна быть в компоненте)?
         ![screenshot](assets/screenshot-css-variables.png)
 
-3. #### TS
+3. ### TS
 
 - enums
 - ![screenshot](assets/screenshot-ts-enum-tags.png)
@@ -95,13 +95,13 @@
 
   - [x] для каждого модуля/компонента отдельный componentName.\[type].ts или один general.\[type].ts на весь проект ?
 
-4. #### WebPack/СSS
+4. ### WebPack/СSS
 
 - при сборке:
 - ![screenshot](assets/screenshot-webpack-css)
-  - [x] Такой вариант ОК или лучше использовать mini-css-extract-plugin собирать все в main.css и подключать в html через link ?
+  - [x] Такой вариант **ОК** или лучше использовать mini-css-extract-plugin собирать все в main.css и подключать в html через link ?
 
-5. #### General:
+5. ### General:
 
 - [x] сколько времени необходимо для реализации такого приложения (понимаю что в реальной разработке никто не пишет на нативном JS, фреймворки ускоряют разработку, но все же как-бы ты оценивила такую аппку (метрика: время, шкала: bad - X hours, normal - X hours, good - X hour\[s]!? :-\) ) ?
 
