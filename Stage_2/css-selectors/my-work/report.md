@@ -98,7 +98,7 @@
 4. ### WebPack/СSS
 
 - при сборке:
-- ![screenshot](assets/screenshot-webpack-css)
+- ![screenshot](assets/screenshot-webpack-css.png)
   - ❓ Такой вариант **ОК** или лучше использовать **mini-css-extract-plugin** собирать все в main.css и подключать в html через link ?
 
 5. ### General:
